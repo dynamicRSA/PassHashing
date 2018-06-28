@@ -42,7 +42,7 @@ namespace PassHashing
             {
                 Console.WriteLine("Hashes DO NOT match.");
             }
-
+            Console.ReadLine();
         }
     }
 
